@@ -1,7 +1,7 @@
 package com.chatroom.controller;
 
 import com.chatroom.controller.entity.ChatUser;
-import com.chatroom.controller.service.ChatRoomService;
+import com.chatroom.service.ChatRoomService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
