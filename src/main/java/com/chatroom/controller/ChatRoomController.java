@@ -4,8 +4,7 @@ import com.chatroom.controller.entity.ChatUser;
 import com.chatroom.service.ChatRoomService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.*;
+import java.util.Set;
 
 @RestController
 @RequestMapping("/chat")
